@@ -58,7 +58,7 @@ input:focus{
     text-transform: uppercase;
     font-size: 20px;
     text-align: center;
-    font-weight: 100;
+    font-weight: 500;
     color:rgb(43, 235, 26);
     box-shadow: 2px 0px 3px grey;
     background-color: black;
@@ -144,6 +144,7 @@ input:focus{
         font-family:  Verdana;
         font-size: 1.4rem;
         text-transform: uppercase;
+        margin-top:10px;
         text-align: center;
     }
     input{
